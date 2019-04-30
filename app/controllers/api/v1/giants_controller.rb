@@ -4,6 +4,7 @@ class Api::V1::GiantsController < Api::APIController
   end
 
   def players
-    
+    giants = Giant.all
+    render json: giants
   end
 end
