@@ -1,6 +1,5 @@
-class Api::V1::GiantsController < Api::APIController
+class Api::V1::GiantsController < ApplicationController
   def index
-
   end
 
   def players
