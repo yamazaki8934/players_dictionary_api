@@ -1,7 +1,7 @@
-Name
+# Name
 players_dictionary_api
 
-Overview
+## Overview
 This app is my first original iOS app(Swift) with the backend(Ruby on Rails) and this repository corresponds to Rails backend.
 
 ## Description
