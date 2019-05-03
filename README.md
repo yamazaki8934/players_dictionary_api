@@ -1,24 +1,8 @@
-# README
+Name
+players_dictionary_api
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Overview
+This app is my first original iOS app(Swift) with the backend(Ruby on Rails) and this repository corresponds to Rails backend.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Description
+iOS https://github.com/yamazaki8934/players_dictionary_ios
