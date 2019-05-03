@@ -1,0 +1,2 @@
+class Giant < ApplicationRecord
+end
